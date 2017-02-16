@@ -1,3 +1,4 @@
 Hello world example
 This is first master change to test rebase
 second change to test rebase
+third change to test rebase after 2 branch commits
