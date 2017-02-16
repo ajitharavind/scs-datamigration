@@ -4,4 +4,5 @@ second change to test rebase
 third change to test rebase after 2 branch commits
 fouth chhange to test rebase after 2 branch and 1 master commi
 fifth change tot test rebase new master commit
-sixth change to test rebase
+sixth change to test rebas
+7th changee
