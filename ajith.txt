@@ -2,4 +2,5 @@ Hello world example
 This is first master change to test rebase
 second change to test rebase
 third change to test rebase after 2 branch commits
-fouth chhange to test rebase after 2 branch and 1 master commit
+fouth chhange to test rebase after 2 branch and 1 master commi
+fifth change tot test rebase new master commit
